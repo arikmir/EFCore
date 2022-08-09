@@ -1,0 +1,12 @@
+C:\Users\arikm\source\repos\EFCore\BookLibrary\obj\Debug\net6.0\BookLibrary.csproj.AssemblyReference.cache
+C:\Users\arikm\source\repos\EFCore\BookLibrary\obj\Debug\net6.0\BookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arikm\source\repos\EFCore\BookLibrary\obj\Debug\net6.0\BookLibrary.AssemblyInfoInputs.cache
+C:\Users\arikm\source\repos\EFCore\BookLibrary\obj\Debug\net6.0\BookLibrary.AssemblyInfo.cs
+C:\Users\arikm\source\repos\EFCore\BookLibrary\obj\Debug\net6.0\BookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\arikm\source\repos\EFCore\BookLibrary\bin\Debug\net6.0\BookLibrary.deps.json
+C:\Users\arikm\source\repos\EFCore\BookLibrary\bin\Debug\net6.0\BookLibrary.dll
+C:\Users\arikm\source\repos\EFCore\BookLibrary\bin\Debug\net6.0\BookLibrary.pdb
+C:\Users\arikm\source\repos\EFCore\BookLibrary\obj\Debug\net6.0\BookLibrary.dll
+C:\Users\arikm\source\repos\EFCore\BookLibrary\obj\Debug\net6.0\refint\BookLibrary.dll
+C:\Users\arikm\source\repos\EFCore\BookLibrary\obj\Debug\net6.0\BookLibrary.pdb
+C:\Users\arikm\source\repos\EFCore\BookLibrary\obj\Debug\net6.0\ref\BookLibrary.dll
