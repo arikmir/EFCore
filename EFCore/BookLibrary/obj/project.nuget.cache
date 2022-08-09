@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XdZtIVGE4OHEkW+I+6v6Pwk0ZDl51SxwNzJD93v7JJFiXcLJ0s/8fTQ/MfSOq9UbCP3l9hbJrLCYFFv9KrKJiA==",
+  "dgSpecHash": "D/aA4WYt9Coql01DC/14rgf8PPJQeDtWhrvAizMuhVGOfskU/SdGDB9VvxDqu+Jnd/tNxcETf0cXNP521xDTCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\arikm\\source\\repos\\EFCore\\BookLibrary\\BookLibrary.csproj",
+  "projectFilePath": "C:\\dev\\EFCore\\EFCore\\BookLibrary\\BookLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arikm\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.7\\microsoft.data.sqlite.core.6.0.7.nupkg.sha512",
     "C:\\Users\\arikm\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.7\\microsoft.entityframeworkcore.6.0.7.nupkg.sha512",
